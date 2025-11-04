@@ -1,7 +1,7 @@
 ﻿
 ## 🚀 Jenkins Pipeline for CI/CD
 
-### 🧩 Objective
+### 🧩 Objective :
 
 This project demonstrates how to set up a **Jenkins Pipeline** to automate the process of **building, testing, and deploying** an application using **Jenkins and Docker**.
 
