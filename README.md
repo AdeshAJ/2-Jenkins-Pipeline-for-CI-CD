@@ -16,7 +16,7 @@ This project demonstrates how to set up a **Jenkins Pipeline** to automate the p
 
 ---
 
-### 📁 Project Structure
+### 📁 Project Structure:
 
 ```
 Jenkins-Pipeline-for-CI-CD/
