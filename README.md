@@ -28,7 +28,7 @@ Jenkins-Pipeline-for-CI-CD/
 
 ---
 
-### ⚙️ Jenkins Pipeline Overview
+### ⚙️ Jenkins Pipeline Overview :
 
 The **Jenkinsfile** defines a Declarative Pipeline with the following stages:
 
