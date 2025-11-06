@@ -79,7 +79,7 @@ pipeline {
 
 ---
 
-### 🔧 Setup Instructions
+### 🔧 Setup Instructions :
 
 #### 1️⃣ Install Jenkins
 
